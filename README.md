@@ -7,4 +7,4 @@ Created modern HTML and CSS to show completely responsive Music App Design with 
 
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
+![Screenshot 2024-05-27 212139](https://github.com/harshal20m/music-player/assets/114692074/26f0a3f8-6ff1-428e-bdeb-67e9f7f1d299)
